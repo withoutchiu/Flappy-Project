@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98691146115",
+    "firebase_url": "https://ninjagoldgame.firebaseio.com",
+    "project_id": "ninjagoldgame",
+    "storage_bucket": "ninjagoldgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98691146115:android:a3812bf9ecaa611c7f16b6",
+        "android_client_info": {
+          "package_name": "com.example.ninjagoldgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98691146115-6g4v7sompeb6nb3atfi8mgl92ort49m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAJi6UadYxSO15tCqRACgenjzTg2utVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98691146115-6g4v7sompeb6nb3atfi8mgl92ort49m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
